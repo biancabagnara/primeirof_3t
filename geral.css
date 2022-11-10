@@ -1,18 +1,21 @@
 .calculadora {
-    background: rgb(215, 215, 224);
+    background: rgb(195, 255, 190);
     width: 200px;
     padding: 10px;
     border-radius: 10px;
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: rgb(44, 44, 44);
 }
 .calculadora input {
-    background: rgb(155, 147, 155);
+    background: rgb(68, 104, 65);
     color: black;
     padding: 5px;
     border-radius: 5px;
 }
 #spTotal {
-    background: rgb(158, 156, 158);
+    background: rgb(68, 104, 65);
     color: rgb(7, 8, 4);
     padding: 5px;
     border-radius: 10px;
